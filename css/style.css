@@ -632,7 +632,9 @@ p {
 	background-repeat:no-repeat;
 	background-color:#fff;
 }
-
+.custom-foot {
+    margin: 0 5px;
+}
 
 
 
